@@ -1,0 +1,15 @@
+
+L
+java:S10662"/Merge this if statement with the enclosing one.(’ê¶Ë8ÈÛèÍ¿1
+W
+java:S1141+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÈÛèÍ¿1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó³Ìúÿÿÿÿ8ÉÛèÍ¿1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(€–ûé8ıÛèÍ¿1
+L	java:S106w"+Replace this use of System.out by a logger.(¶®éÓøÿÿÿÿ8ÜèÍ¿1
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(£¨õûøÿÿÿÿ8‚ÜèÍ¿1
+M	java:S106‹"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8‚ÜèÍ¿1
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ŸùÕ‹ÿÿÿÿÿ8‚ÜèÍ¿1
+K	java:S108•")Either remove or fill this block of code.(âÃƒŠıÿÿÿÿ8‚ÜèÍ¿1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 17 to 14, Nesting Level from 5 to 2, Number of Variables from 26 to 6.(€–ûé8ƒÜèÍ¿1
